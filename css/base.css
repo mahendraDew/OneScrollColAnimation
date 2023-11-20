@@ -39,6 +39,14 @@ main {
 	position: relative;
 }
 
+.outro{
+	height: 700px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 
 /* Page Loader */
 .js .loading::before,
